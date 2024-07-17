@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Acme&display=swap');
+
+
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: salmon;
+    color: rgb(99, 17, 7);
+    font-family: "Aclonica", sans-serif;
+}
